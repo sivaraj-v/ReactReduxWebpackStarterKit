@@ -15,7 +15,8 @@ npm start
 - Start editing \ReactReduxWebpackStarterKit\src\App\App.js save and watch localhost:3000 update
 
 ### Commands
-Build 
+Build
+More information about the building script @ https://github.com/eavMarshall/react-redux-hot-boilerplate
 ```
 npm run-script build
 ```
