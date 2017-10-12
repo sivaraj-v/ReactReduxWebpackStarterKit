@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "reactreduxwebpackstarterkit",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/eavMarshall/ReactReduxWebpackStarterKit"
   },
   "keywords": [
     "react",
@@ -22,7 +22,7 @@
     "edit",
     "webpack"
   ],
-  "author": "Elliott <elliottavmarshall@gmail.com>",
+  "author": "Elliott <elliottavmarshall@gmail.com> https://github.com/eavMarshall/ReactReduxWebpackStarterKit",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",
